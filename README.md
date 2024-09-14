@@ -1,8 +1,8 @@
-Este é um projeto simples e intuitivo que auxilia no redimensionamento de imagens.
+👍Este é um projeto simples e intuitivo que auxilia no redimensionamento de imagens.
 
-O projeto de redimensionamento de imagens foi criado para pessoas que possuem pouco ou nenhum conhecimento em tecnologia.
+👌O projeto de redimensionamento de imagens foi criado para pessoas que possuem pouco ou nenhum conhecimento em tecnologia.
 
-INSTRUÇÕES DE USO
+INSTRUÇÕES DE USO🙌
 
 1.	Iniciar o Aplicativo:
 Abra o aplicativo "Redimensionar Imagem" e clique no botão "Inserir".
@@ -18,3 +18,5 @@ Clique em "Converter". Escolha onde salvar a imagem redimensionada quando solici
 
 9.	Finalização:
 O aplicativo exibirá uma mensagem de sucesso após salvar a imagem. O layout será restaurado ao padrão inicial e estará pronto para a próxima operação. Para mais informações ou suporte, consulte a seção de ajuda do aplicativo.
+
+Este foi meu primeiro projeto desenvolvido em Python😁😍
